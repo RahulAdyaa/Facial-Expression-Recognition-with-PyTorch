@@ -40,7 +40,7 @@ pip install numpy pasndas torch matplotlib timm
 
 ## 🛠️ Usage
 
-# 🔥 Training the Model
+ 🔥 Training the Model
 
 
 
@@ -54,13 +54,12 @@ The model uses a CNN-based architecture with the following layers:
 
 🎯 Fully Connected Layers: Perform final classification
 
-📈 Performance
+# 📈 Performance
+ Tested the model for 15 epochs
  AT EPOCH - 15 
  loss=0.820659, acc=0.694936
  
 The model achieves an accuracy of ~70% on the FER2013 test set. Performance improvements can be achieved through:
-
-# 🔧 Hyperparameter tuning
 
 
 # 🎖️ Acknowledgments
